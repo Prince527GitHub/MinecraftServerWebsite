@@ -1,3 +1,3 @@
-# FazSMP
+# FunkyMonkey
 
-https://fazsmp.xyz
+https://funkymonkey.xyz
