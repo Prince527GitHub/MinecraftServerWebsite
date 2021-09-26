@@ -1,1 +1,3 @@
-# MinecraftServersWebsites
+# FazSMP
+
+https://fazsmp.xyz
