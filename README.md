@@ -1,3 +1,3 @@
 # FunkyMonkey
 
-https://funkymonkey.xyz
+https://funkymonke.xyz/
