@@ -3,7 +3,10 @@ body {
 	image-rendering: pixelated;
 	image-rendering: -moz-crisp-edges;
   color: white;
-  background-image: url("../image/background.png")
+  background-image: url("../image/background.png");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
 }
 * {
 	box-sizing: border-box;
