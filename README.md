@@ -8,4 +8,6 @@
 ```
 
 This is a version of the template for FazSMP.
-https://fazsmp.xyz
+
+Original: https://fazsmp.xyz
+Backup: https://serversmp.xyz/web/minecraft/fazsmp/index.html
