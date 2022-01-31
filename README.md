@@ -8,4 +8,6 @@
 ```
 
 This is a version of the template used on FunkyMonkey.
-https://funkymonke.xyz/
+
+Original: https://funkymonke.xyz/
+Backup: https://serversmp.xyz/web/minecraft/funkymonkey/index.html
