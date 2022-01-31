@@ -10,4 +10,5 @@
 This is a version of the template for FazSMP.
 
 Original: https://fazsmp.xyz
+
 Backup: https://serversmp.xyz/web/minecraft/fazsmp/index.html
