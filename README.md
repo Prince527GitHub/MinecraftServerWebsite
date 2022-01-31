@@ -8,4 +8,6 @@
 ```
 
 This is a version of the template for ArpiSMP.
-https://arpismp.serversmp.xyz
+
+Original: https://arpismp.serversmp.xyz
+Backup: https://serversmp.xyz/web/minecraft/arpismp/index.html
