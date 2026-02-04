@@ -3,9 +3,9 @@
 <p align="center">A simple template to generate a website for your minecraft server.</p>
 
 <p align="center">
-  <a href="https://serversmp.xyz/web/arpismp/index.html">ArpiSMP</a>
+  <a href="http://legacy.sites.my.id/arpismp">ArpiSMP</a>
   -
-  <a href="https://serversmp.xyz/web/fazsmp/index.html">FazSMP</a>
+  <a href="http://legacy.sites.my.id/fazsmp">FazSMP</a>
   -
-  <a href="https://serversmp.xyz/web/funkymonkey/index.html">FunkeyMonkey</a>
+  <a href="http://legacy.sites.my.id/funkymonkey">FunkeyMonkey</a>
 </p>
