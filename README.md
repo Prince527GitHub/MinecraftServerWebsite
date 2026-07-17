@@ -11,4 +11,4 @@ This is a version of the template for ArpiSMP.
 
 Original: https://arpismp.serversmp.xyz
 
-Backup: https://serversmp.xyz/web/minecraft/arpismp/index.html
+Backup: https://legacy.sites.pp.ua/arpismp
